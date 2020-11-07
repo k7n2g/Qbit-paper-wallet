@@ -1,3 +1,6 @@
+![Optional Text](../assets/img/Screenshot_20.png)
+
+
 # Qbit Paper Wallet
 
 **Qbit Paper Wallet Generator**
