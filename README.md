@@ -1,4 +1,4 @@
-![Optional Text](../master/img/Screenshot_20.png)
+![Optional Text](../assets/img/Screenshot_20.png)
 
 
 # Qbit Paper Wallet
